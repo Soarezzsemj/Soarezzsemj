@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soarezzsemj&show_icons=true&theme=radical)
 
+##
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soarezzsemj/Soarezzsemj/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soarezzsemj/Soarezzsemj/output/github-contribution-grid-snake.svg">
@@ -18,6 +20,9 @@
 <img align="center" alt="Soarezz-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="center" alt="Soarezz-js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 </div>
+ 
+ 
+##
 
 <div> 
   <a href="https://instagram.com/soarezzsemj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
