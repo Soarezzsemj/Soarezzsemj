@@ -4,6 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soarezzsemj&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soarezzsemj&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=soarezzsemj&locale=pt-br&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 
 ##
 
