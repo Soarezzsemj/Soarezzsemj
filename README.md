@@ -1,5 +1,9 @@
 <br clear="both">
 
+<div align="center">
+  <img height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lhaDV2b3dpcnBia25ncTZoZXNzOXQxbnR6b3hiYnJtenEwdnhwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CyqKlUpeVWOuPizqIw/giphy.gif"  />
+</div>
+
 <h1 align="center">Bem vindo ao meu perfil!</h1>
 
 ###
@@ -13,17 +17,20 @@
 
 ###
 
+<h3 align="left">🛠 Stacks</h3>
+
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=java,swift,c,javascript,react,idea,clion,git,obsidian,linux,postman,premiere&perline=4" />
+   <img src="https://skillicons.dev/icons?i=java,swift,c,javascript,react,idea,clion,git,obsidian,linux,postman,premiere&perline=3" />
 
 </div>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lhaDV2b3dpcnBia25ncTZoZXNzOXQxbnR6b3hiYnJtenEwdnhwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CyqKlUpeVWOuPizqIw/giphy.gif"  />
+  <img src="https://streak-stats.demolab.com?user=Soarezzsemj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/Soarezzsemj/Soarezzsemj/output/snake.svg" alt="Snake animation" />
+
