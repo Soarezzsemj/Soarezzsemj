@@ -40,11 +40,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Soarezzsemj/Soarezzsemj/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Soarezzsemj/count.svg?"  />
-</div>
-
-###
