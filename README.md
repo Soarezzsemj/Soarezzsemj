@@ -27,7 +27,7 @@
 <h3 align="left">🛠 Stacks</h3>
 
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=java,swift,c,javascript,react,idea,clion,git,obsidian,linux,postman,premiere&perline=3" />
+   <img src="https://skillicons.dev/icons?i=dotnet,cs,flutter,dart,azure,swift,react,java,idea,vscode,git,linux,postman&perline=4" />
 
 </div>
 
